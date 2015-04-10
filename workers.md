@@ -1,6 +1,6 @@
 # HTML5 Web Workers
 
-JavaScript 被设计为运行在一个单线程环境中，这意味着多个脚本不能同时运行。考虑这样一种情况，我们需要处理 UI 时间，查询和处理大量的 API 数据以及操作 DOM。
+JavaScript 被设计为运行在一个单线程环境中，这意味着多个脚本不能同时运行。考虑这样一种情况，我们需要处理 UI 事件，查询和处理大量的 API 数据以及操作 DOM。
 
 在 CPU 使用率过高的情况下 JavaScript 还会造成浏览器假死。我们来举一个简单的例子，用 JavaScript 运行一个大循环：
 
@@ -60,7 +60,7 @@ importScripts("helper.js", "anotherHelper.js");
 
 一旦 Web Worker 启动，就可以使用 __postMessage()__ 方法在 web worker 和父页面之间进行通信。依赖于浏览器或浏览器版本，postMessage() 方法可以接受一个字符串或者 JSON 对象作为它的唯一参数。
 
-通过 Web Worker 攒底的消息可以在主页面中使用 __onmessage__ 时间访问。现在让我们用 Web Worker 编写上面的 bigLoop 示例。下面是要启动 web worker 执行循环和返回变量 __j__ 最终值的主页面（hello.htm）。
+通过 Web Worker 攒底的消息可以在主页面中使用 __onmessage__ 事件访问。现在让我们用 Web Worker 编写上面的 bigLoop 示例。下面是要启动 web worker 执行循环和返回变量 __j__ 最终值的主页面（hello.htm）。
 
 ```html
 <!DOCTYPE HTML>

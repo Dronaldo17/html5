@@ -134,7 +134,7 @@ db.transaction(function (tx) {
 </html>
 ```
 
-在最新版的 Safari 或者 Opera 浏览器中这回生成如下所示结果：
+在最新版的 Safari 或者 Opera 浏览器中这会生成如下所示结果：
 
 ```
 Log message created and row inserted.
