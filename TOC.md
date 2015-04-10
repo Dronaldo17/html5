@@ -10,7 +10,7 @@
   - [HTML5 Web 储存](storage.md)
   - [HTML5 Web SQL](sql.md)
   - [HTML5 服务器推送事件](sse.md)
-  - [HTML5 WebSocket](websocket.md)
+  - [HTML5 WebSocket](socket.md)
   - [HTML5 画布 - HTML5 Canvas](canvas.md)
   - [HTML5 音频和视频](audio-video.md)
   - [HTML5 地理定位](geolocation.md)
@@ -29,7 +29,7 @@
   - [HTML5 字体参考](fonts-reference.md)
   - [HTML5 URL编码](url-encoding.md)
   - [HTML5 实体](entities.md)
-  - [HTML5 字符编码](encodings.md)
+  - [HTML5 字符编码](char-encodings.md)
 
 - __HTML5 工具 -  HTML5 Tools__
   - [HTML5 Modernizr](modernizr.md)
