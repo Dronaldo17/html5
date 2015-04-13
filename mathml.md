@@ -10,7 +10,8 @@ HTML5 的 HTML 语法允许我们在文档内使用 &lt;math&gt;...&lt;/math&gt;
 
 下面是一个使用 MathML 的有效 HTML5 文档：
 
-```html
+```
+html
 <!doctype html>
   <html>
   <head>
@@ -43,7 +44,8 @@ a2 + b2 = c2
 
 想象一下，下面是一个使用字符 &amp;InvisibleTimes; 的标记：
 
-```html
+```
+html
 <!doctype html>
   <html>
   <head>
@@ -85,7 +87,8 @@ x<sup>2</sup> + <sup>4</sup> + 4 = 0
 
 想象一下下面的例子，它会被用来表示一个简单的 2x2 矩阵：
 
-```html
+```
+html
 <!doctype html>
   <html>
   <head>

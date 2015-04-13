@@ -14,7 +14,7 @@ HTML5 引入了许多新元素和属性帮助我们构建现代化的网站。�
 
 - [持久化本地存储](storage.md)：为了不使用第三方插件实现、
 
-- [WebSocket](websocket.md)：用于 Web 应用程序的下一代双向通信技术。
+- [WebSocket](socket.md)：用于 Web 应用程序的下一代双向通信技术。
 
 - [服务器推送事件](sse.md)：HTML5 引入了从 Web 服务器到 Web 浏览器的事件，也被称作服务器推送事件（SSE）。
 
