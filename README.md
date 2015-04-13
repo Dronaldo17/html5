@@ -1,20 +1,11 @@
 #  HTML-5 Tutorial 中文版
 
-官方英文原版：   
-http://www.tutorialspoint.com/html5/html5_web_workers.htm
+HTML5是近十年来Web开发标准最巨大的飞跃。HTML5并非仅仅用来表示Web内容，它的新使命是将Web带入一个成熟的应用平台，在HTML5平台上，视频，音频，图象，动画，以及同电脑的交互都被标准化。
 
-## 目的
+官方英文原版：<http://www.tutorialspoint.com/html5/>
 
-翻译官方文档，目录见文件 [TOC.md](TOC.md)
 
-## 操作示例
-
-https://github.com/jikexueyuanwiki/guide
-
-## 如何添加图片
-
-前提：官网上的所有图片都已经下载下来放入「images」文件夹，图片的文件名没做任何修改。
-
-1、请引用「images」文件夹中的图片，不要直接引用官方上的图片链接；    
-2、引用「images」文件夹时，请使用相对文件路径。
+|更新日期    |更新内容
+|----------|--------------------
+|2015-04-13|HTML-5 Tutorial 中文版发布
 
