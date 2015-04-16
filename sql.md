@@ -2,7 +2,7 @@
 
 Web SQL 数据库 API 并不是 HTML5 规范的一部分，但是它是一个独立的规范，引入了一组使用 SQL 操作客户端数据库的 APIs。
 
-假定你是一个优秀的 Web 开发人员，如果是这样的话，毫无疑问你会很清楚 SQL 和 RDBMS 的概念。如果你仍然需要一个 SQL 的议题，可以学习我们的 [SQL 教程](http://www.tutorialspoint.com/sql/index.htm)。
+假定你是一个优秀的 Web 开发人员，如果是这样的话，毫无疑问你会很清楚 SQL 和 RDBMS 的概念。如果你仍然需要一个 SQL 的议题，可以学习我们的 [SQL 教程](http://wiki.jikexueyuan.com/project/mysql/)。
 
 我们可以在最新版的 Safari，Chrome 和 Opera 中使用 Web SQL 数据库。
 
