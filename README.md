@@ -11,6 +11,7 @@ HTML5 是近十年来 Web 开发标准最巨大的飞跃。HTML5 并非仅仅用
 * 新的特殊内容元素，比如 article、footer、header、nav、section
 * 新的表单控件，比如 calendar、date、time、email、url、search
 * * *
+
 ##### HTML5 浏览器支持:
 最新版本的 Safari、Chrome、Firefox 以及 Opera 支持某些 HTML5 特性。Internet Explorer 9 将支持某些 HTML5 特性。
 
