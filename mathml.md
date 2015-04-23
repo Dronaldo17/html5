@@ -43,7 +43,8 @@ a2 + b2 = c2
 
 想象一下，下面是一个使用字符 &amp;InvisibleTimes; 的标记：
 
-```html
+```
+html
 <!doctype html>
   <html>
   <head>
@@ -73,7 +74,8 @@ a2 + b2 = c2
    </math>
 </body>
 </html> 
-⁢```
+⁢
+```
 
 这会生成如下结果。如果你不能看到 x<sup>2</sup> + <sup>4</sup> + 4 = 0 这样正确的结果，请使用 FireFox 3.5 或更高的版本。
 
@@ -85,7 +87,8 @@ x<sup>2</sup> + <sup>4</sup> + 4 = 0
 
 想象一下下面的例子，它会被用来表示一个简单的 2x2 矩阵：
 
-```html
+```
+html
 <!doctype html>
   <html>
   <head>
